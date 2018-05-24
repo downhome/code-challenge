@@ -14,9 +14,11 @@ Feel free to email me at [gmhawash@gmail.com](gmhawash@gmail.com) if you have an
 ### Option 1: Fork this repo into your own Github account
 If you have a github account, or if you create one; you can Fork this repo into your github account, then clone it to your local machine.  You can then write your program in the cloned environment and add commits as you make progress.
 
-### Option 2: Copy the files (input.txt and output.txt) from this repo to your local machine and use them to program your code on your local machine.
+### Option 2: Copy files to your local machine:
+Copy the files (input.txt and output.txt) from this repo to your local machine and use them to program your code on your local machine.
 
-### Option 3: You can go to http://repl.it and select the language that you want to use to program and write and verify your program on that site. You can then submit the actual code through email.
+### Option 3: Use online platform: 
+You can go to http://repl.it and select the language that you want to use to program and write and verify your program on that site. You can then submit the actual code through email.
   
 ## Submission Instructions:
 
