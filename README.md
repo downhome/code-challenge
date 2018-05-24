@@ -3,12 +3,21 @@
 Hi there! To get a better idea of your current development skills, we'd like for you to complete a code challenge - build an application according to a set of requirements.  The actual business requirements are listed further down, but here are the general tech requirements:
 
 1. Write your code in your favorite language
-1. Make sure your app is runnable on Mac OS X or Linux from the command line.
+1. Preferrable the program should be runnable on Mac OS X or Linux from the command line.
 1. Do not require any for-pay software.
 1. Include instructions for setting up and running your application.
 
 Feel free to email me at [gmhawash@gmail.com](gmhawash@gmail.com) if you have any questions.
 
+
+## Options for creating the program:
+### Option 1: Fork this repo into your own Github account
+If you have a github account, or if you create one; you can Fork this repo into your github account, then clone it to your local machine.  You can then write your program in the cloned environment and add commits as you make progress.
+
+### Option 2: Copy the files (input.txt and output.txt) from this repo to your local machine and use them to program your code on your local machine.
+
+### Option 3: You can go to http://repl.it and select the language that you want to use to program and write and verify your program on that site. You can then submit the actual code through email.
+  
 ## Submission Instructions:
 
 ### Option 1: Github (preferred)
