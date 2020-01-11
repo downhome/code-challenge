@@ -7,7 +7,7 @@ Hi there! To get a better idea of your current development skills, we'd like for
 1. Do not require any for-pay software.
 1. Include instructions for setting up and running your application.
 
-Feel free to email me at [gmhawash@gmail.com](gmhawash@gmail.com) if you have any questions.
+Feel free to email me at [gmhawash@gmail.com](mailto:gmhawash@gmail.com) if you have any questions.
 
 
 ## Options for creating the program:
@@ -28,7 +28,7 @@ You can go to http://repl.it and select the language that you want to use to pro
 1. Send me the link to the repo once you are done.
 
 
-### Option 2: Email the .zip file to [gmhawash@gmail.com](gmhawash@gmail.com)
+### Option 2: Email the .zip file to [gmhawash@gmail.com](mailto:gmhawash@gmail.com)
 
 If you have any questions about this submission process, feel free to email.
 
@@ -36,11 +36,11 @@ If you have any questions about this submission process, feel free to email.
 
 There are 3 projects to consider.  Submit a solution for each of the projects:
 
-1. [Image Processing](rotate/README.md)
+1. [Image Processing](rotate)
 
-2. [Partition Sort](partition_sort/README.md)
+2. [Partition Sort](partition_sort)
 
-3. [Class Average](class_averages/README.md)
+3. [Class Average](class_averages)
 
 
 ## Evaluation
