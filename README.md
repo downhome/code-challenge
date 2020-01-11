@@ -19,7 +19,7 @@ Copy the files (input.txt and output.txt) from this repo to your local machine a
 
 ### Option 3: Use online platform: 
 You can go to http://repl.it and select the language that you want to use to program and write and verify your program on that site. You can then submit the actual code through email.
-  
+
 ## Submission Instructions:
 
 ### Option 1: Github (preferred)
@@ -34,10 +34,13 @@ If you have any questions about this submission process, feel free to email.
 
 ## Project Description
 
-There are two files in the `rotate` folder: input.txt and output.txt.
+There are 3 projects to consider.  Submit a solution for each of the projects:
 
-1. Write a command line program that will read the input file and generate the output file. 
-1. Provide instructions of how to run the script on a linux or MacOs machine.
+1. [Image Processing](rotate/README.md)
+
+2. [Partition Sort](partition_sort/README.md)
+
+3. [Class Average](class_averages/README.md)
 
 
 ## Evaluation
